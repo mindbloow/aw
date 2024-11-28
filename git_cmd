@@ -1,0 +1,5 @@
+COMANDOS UTILIZADOS:
+- git init (repositorio)
+- git add (archivos)
+- git commit -m "Informacion sobre el commit"
+- git push -u origin "rama"
